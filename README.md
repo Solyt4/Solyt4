@@ -16,7 +16,7 @@
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<img align="right" alt="Solyt4-pic" height="150" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/841341847149608962/963822490633764904/73101da42ad70d5caae829c77a61a99f.gif?width=676&height=676">
+<img align="right" alt="Solyt4-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/841341847149608962/964181423349182474/6e2d3e644930194107bc694c90c3f3e6.gif?width=676&height=676">
 </div>
   
   ##

@@ -1,5 +1,8 @@
 ### ✨ Hello Word. ✨
 
+ 
+Meu nome é **João Vitor**, tenho 16 anos. Atualmente sou um Desenvolvedor Iniciante Front-End , mas estou estudando para me tornar um Desenvolvedo FullStack! ❤️
+
 <div>
   <a href="https://github.com/Solyt4">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Solyt4&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>

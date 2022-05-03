@@ -19,7 +19,7 @@ Meu nome é **João Vitor**, tenho 16 anos. Atualmente sou um Desenvolvedor Inic
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<img align="right" alt="Solyt4-pic" height="250" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/841341847149608962/964181423349182474/6e2d3e644930194107bc694c90c3f3e6.gif?width=576&height=576">
+<img align="right" alt="Solyt4-pic" height="350" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/788819097294078023/970858860229324860/81a926cd5e67098e1336d8043e017edf.gif?width=576&height=576">
 </div>
   
   ##

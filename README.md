@@ -1,7 +1,7 @@
 ### ✨ Hello Word. ✨
 
  
-Meu nome é **João Vitor**. Atualmente sou um Desenvolvedor Iniciante Front-End , mas estou estudando para me tornar um Desenvolvedo FullStack! ❤️
+Meu nome é **João Vitor**. Atualmente sou um Desenvolvedor Iniciante Front-End , mas estou estudando para me tornar um Desenvolvedo FullStack!.❤️ UI Design e UX Design nas horas vagas.
   
 <div style="display: inline_block">
   

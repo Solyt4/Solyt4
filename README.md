@@ -9,11 +9,13 @@ Meu nome é **João Vitor**, tenho 16 anos. Atualmente sou um Desenvolvedor Inic
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 
+ <img align="right" alt="Solyt4-pic" height="350" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/788819097294078023/970858860229324860/81a926cd5e67098e1336d8043e017edf.gif?width=576&height=576">
+ 
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-<img align="right" alt="Solyt4-pic" height="350" style="border-radius:50px;" src="https://cdn.discordapp.com/attachments/788819097294078023/970858860229324860/81a926cd5e67098e1336d8043e017edf.gif?width=576&height=576">
+![Bitcoin](https://img.shields.io/badge/Bitcoin-000000?style=for-the-badge&logo=bitcoin&logoColor=white)
 </div>
   
   ##
